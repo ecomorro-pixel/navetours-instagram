@@ -1,0 +1,62 @@
+{
+  "id": "S2-carrusel-v2",
+  "tipo": "carrusel",
+  "articulo": "S2 · Patagonia in January and February",
+  "publicar": "2026-10-15T10:00:00-03:00",
+  "caption": "January and February bring Patagonia's best hiking weather, and its biggest crowds.\n\nIf you are planning for early 2027, the refuges and campsites of the W Trek in Torres del Paine are the first thing to secure. Late is not the same as too late: there are still good ways to shape the trip.\n\nThe full guide is on our journal. Link in bio.\n\n#torresdelpaine #patagonia #wtrek #patagoniachile #tailormadetravel",
+  "laminas": [
+    {
+      "plantilla": "portada",
+      "campos": {
+        "eyebrow": "When to go",
+        "title": "Patagonia in January and February",
+        "subtitle": "What to book first, and what can wait",
+        "photo": "torres-del-paine-chilean-patagonia.webp",
+        "alt": "Torres del Paine, Chilean Patagonia",
+        "page": "1/5"
+      }
+    },
+    {
+      "plantilla": "tip",
+      "campos": {
+        "num": "01",
+        "title": "Secure the W Trek first",
+        "body": "In summer, the refuges and campsites of the W Trek in Torres del Paine are the first thing to fill up. For January or February, we suggest starting to plan around June or July.",
+        "photo": "torres-del-paine-base-torres-trek.webp",
+        "alt": "Trekking to the base of the Torres, Torres del Paine",
+        "page": "2/5"
+      }
+    },
+    {
+      "plantilla": "tip",
+      "campos": {
+        "num": "02",
+        "title": "Late is not the same as too late",
+        "body": "With short notice, day tours and some glacier visits may still have space, and routes like the Carretera Austral are easier to improvise. We adapt the route instead of forcing it.",
+        "photo": "carretera-austral-marble-caves-general-carrera.jpg",
+        "alt": "Marble Caves, General Carrera Lake, Carretera Austral",
+        "page": "3/5"
+      }
+    },
+    {
+      "plantilla": "tip",
+      "campos": {
+        "num": "03",
+        "title": "Summer still needs layers",
+        "body": "January and February bring the most pleasant hiking weather, but Patagonian wind and weather can change fast. Pack layers and a waterproof, windproof outer shell.",
+        "photo": "torres-del-paine-hikers.webp",
+        "alt": "Hikers in Torres del Paine",
+        "page": "4/5"
+      }
+    },
+    {
+      "plantilla": "cierre",
+      "campos": {
+        "title": "The full guide is on our journal",
+        "body": "What to secure first for January and February, and how to adapt the route if you are booking late.",
+        "cta": "Link in bio",
+        "page": "5/5"
+      }
+    }
+  ]
+}
