@@ -1,0 +1,49 @@
+# Renderiza cada lote nuevo o modificado en lotes/ → img/<id>/*.jpg + manifest.json.
+# n8n sube el lote (API de contenidos de GitHub) y luego lee img/<id>/manifest.json.
+name: Render lotes
+on:
+  push:
+    branches: [main]
+    paths: ['lotes/**.json']
+  workflow_dispatch:
+    inputs:
+      lote:
+        description: 'Ruta del lote (ej. lotes/S2-carrusel.json)'
+        required: true
+permissions:
+  contents: write
+concurrency:
+  group: render
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Chromium
+        run: npx playwright install --with-deps chromium
+      - name: Render
+        run: |
+          if [ -n "${{ github.event.inputs.lote }}" ]; then
+            LOTES="${{ github.event.inputs.lote }}"
+          else
+            LOTES=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD -- 'lotes/*.json')
+          fi
+          echo "Lotes: $LOTES"
+          for l in $LOTES; do node render.mjs "$l"; done
+      - name: Commit imágenes
+        run: |
+          git config user.name "navetours-render"
+          git config user.email "actions@users.noreply.github.com"
+          git add img
+          git diff --cached --quiet && exit 0
+          git commit -m "Render: $(git diff --cached --name-only | grep manifest | xargs -n1 dirname | xargs -n1 basename | tr '\n' ' ')"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
