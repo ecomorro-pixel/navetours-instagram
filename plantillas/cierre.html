@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
+<style>
+@font-face{font-family:"Cubano";src:url("../assets/fonts/Cubano.otf") format("opentype");font-weight:400;font-style:normal}
+html,body{margin:0;padding:0;width:1080px;height:1350px}
+.cub{font-family:"Cubano","Arial Black",sans-serif;font-weight:400}
+</style>
+</head>
+<body>
+<!-- Cierre de carrusel. Campos: title, body, cta, page -->
+<div style="width:1080px;height:1350px;box-sizing:border-box;padding:96px 88px;display:flex;flex-direction:column;justify-content:space-between;align-items:center;text-align:center;background:#4bb748;color:#363636;font-family:'Ubuntu','Helvetica Neue',Arial,sans-serif">
+<span style="align-self:flex-end;font-size:28px;font-weight:500">{{page}}</span>
+<div style="display:flex;flex-direction:column;align-items:center;gap:40px">
+<h2 class="cub" style="margin:0;font-size:88px;line-height:1.05;color:#363636">{{title}}</h2>
+<p style="margin:0;font-size:40px;line-height:54px;font-weight:400;max-width:820px">{{body}}</p>
+<div class="cub" style="background:#fff;color:#363636;border-radius:12px;padding:24px 44px;font-size:40px;line-height:1.2">{{cta}}</div>
+</div>
+<img src="../assets/logos/isologo-blanco.png" alt="Nave Tours" style="width:220px;height:auto">
+</div>
+</body>
+</html>

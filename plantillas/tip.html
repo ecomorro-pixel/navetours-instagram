@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
+<style>
+@font-face{font-family:"Cubano";src:url("../assets/fonts/Cubano.otf") format("opentype");font-weight:400;font-style:normal}
+html,body{margin:0;padding:0;width:1080px;height:1350px}
+.cub{font-family:"Cubano","Arial Black",sans-serif;font-weight:400}
+</style>
+</head>
+<body>
+<!-- Lámina de tips. Campos: num, title, body, photo, alt, page -->
+<div style="width:1080px;height:1350px;box-sizing:border-box;display:flex;flex-direction:column;background:#fff;color:#363636;font-family:'Ubuntu','Helvetica Neue',Arial,sans-serif">
+<div style="flex-grow:1;box-sizing:border-box;padding:80px 88px 64px;display:flex;flex-direction:column;gap:36px">
+<div style="display:flex;justify-content:space-between;align-items:center">
+<img src="../assets/logos/isotipo-color.png" alt="" style="width:64px;height:auto">
+<span style="font-size:28px;font-weight:500">{{page}}</span>
+</div>
+<div class="cub" style="font-size:120px;line-height:1;color:#4bb748;margin-top:24px">{{num}}</div>
+<h2 class="cub" style="margin:0;font-size:76px;line-height:1.05;color:#363636">{{title}}</h2>
+<p style="margin:0;font-size:40px;line-height:58px;font-weight:400;color:#363636">{{body}}</p>
+</div>
+<img src="{{photo}}" alt="{{alt}}" style="width:100%;height:340px;object-fit:cover;display:block">
+</div>
+</body>
+</html>

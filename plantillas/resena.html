@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
+<style>
+@font-face{font-family:"Cubano";src:url("../assets/fonts/Cubano.otf") format("opentype");font-weight:400;font-style:normal}
+html,body{margin:0;padding:0;width:1080px;height:1350px}
+.cub{font-family:"Cubano","Arial Black",sans-serif;font-weight:400}
+</style>
+</head>
+<body>
+<!-- Cita de reseña (solo texto textual de Tripadvisor). Campos: quote, name, year -->
+<div style="width:1080px;height:1350px;box-sizing:border-box;padding:96px 80px;display:flex;flex-direction:column;justify-content:space-between;align-items:center;background:#4bb748;font-family:'Ubuntu','Helvetica Neue',Arial,sans-serif;color:#363636">
+<div class="cub" style="font-size:40px;line-height:1.2;color:#363636">What our travellers say</div>
+<div style="width:100%;box-sizing:border-box;background:#fff;border-radius:12px;box-shadow:0 0 10px 0 rgba(0,0,0,0.5);padding:72px 64px;display:flex;flex-direction:column;gap:36px">
+<div style="font-size:48px;letter-spacing:6px;color:#589436" aria-label="Five stars">★★★★★</div>
+<p style="margin:0;font-size:42px;line-height:60px;font-weight:500;color:#363636">“{{quote}}”</p>
+<div style="display:flex;flex-direction:column;gap:8px">
+<div class="cub" style="font-size:36px;line-height:1.2;color:#589436">{{name}}</div>
+<div style="font-size:28px;line-height:40px;color:#363636">Tripadvisor review, {{year}}</div>
+</div>
+</div>
+<img src="../assets/logos/isologo-blanco.png" alt="Nave Tours" style="width:200px;height:auto">
+</div>
+</body>
+</html>
