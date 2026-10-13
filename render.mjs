@@ -21,7 +21,8 @@ const page = await browser.newPage({ viewport: { width: 1080, height: 1350 }, de
 const archivos = [];
 for (const [i, lam] of lote.laminas.entries()) {
   const plantilla = await readFile(path.join(raiz, 'plantillas', `${lam.plantilla}.html`), 'utf8');
-  const campos = { ...lam.campos };
+  const campos = { foco: '50% 50%', ...lam.campos };
+  if (!/^[0-9]{1,3}% [0-9]{1,3}%$/.test(campos.foco)) throw new Error(`Lámina ${i + 1}: foco no válido (${campos.foco}); usar "X% Y%"`);
   if (campos.photo) {
     const foto = path.join(raiz, 'fotos', campos.photo);
     await access(foto); // falla si la foto no existe

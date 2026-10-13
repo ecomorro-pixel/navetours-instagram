@@ -10,9 +10,9 @@ html,body{margin:0;padding:0;width:1080px;height:1350px}
 </style>
 </head>
 <body>
-<!-- Destino destacado. Campos: eyebrow, title, line, photo, alt -->
+<!-- Destino destacado. Campos: eyebrow, title, line, photo, alt, foco (opcional) -->
 <div style="width:1080px;height:1350px;position:relative;overflow:hidden;background:#333332;font-family:'Ubuntu','Helvetica Neue',Arial,sans-serif;color:#fff">
-<img src="{{photo}}" alt="{{alt}}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">
+<img src="{{photo}}" alt="{{alt}}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:{{foco}}">
 <div style="position:absolute;left:0;right:0;bottom:0;height:640px;background:rgba(0,0,0,0.5)"></div>
 <img src="../assets/logos/isotipo-blanco.png" alt="Nave Tours" style="position:absolute;top:72px;right:80px;width:88px;height:auto">
 <div style="position:absolute;left:0;right:0;bottom:0;box-sizing:border-box;padding:0 88px 96px;display:flex;flex-direction:column;gap:24px">
