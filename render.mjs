@@ -22,6 +22,8 @@ const archivos = [];
 for (const [i, lam] of lote.laminas.entries()) {
   const plantilla = await readFile(path.join(raiz, 'plantillas', `${lam.plantilla}.html`), 'utf8');
   const campos = { foco: '50% 50%', ...lam.campos };
+  const arriba = campos.texto === 'arriba';
+  Object.assign(campos, { panel_lado: arriba ? 'top' : 'bottom', panel_padding: arriba ? '96px 88px 0' : '0 88px 96px' });
   if (!/^[0-9]{1,3}% [0-9]{1,3}%$/.test(campos.foco)) throw new Error(`Lámina ${i + 1}: foco no válido (${campos.foco}); usar "X% Y%"`);
   if (campos.photo) {
     const foto = path.join(raiz, 'fotos', campos.photo);
