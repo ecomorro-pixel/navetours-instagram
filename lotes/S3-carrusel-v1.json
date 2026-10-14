@@ -1,0 +1,63 @@
+{
+  "id": "S3-carrusel-v1",
+  "tipo": "carrusel",
+  "articulo": "S3 · Patagonia in 14 days",
+  "publicar": "2026-10-22T10:00:00-03:00",
+  "caption": "Fourteen days sounds like plenty until you look at a map of southern Patagonia.\n\nThis is how we frame a route between Santiago and Buenos Aires, and which stop we would leave out first. There is no single ideal route, only the one that fits how you like to travel.\n\nThe full article is on our journal. Link in bio.\n\n#patagonia #torresdelpaine #elcalafate #patagoniaitinerary #tailormadetravel",
+  "laminas": [
+    {
+      "plantilla": "portada",
+      "campos": {
+        "eyebrow": "Routes and itineraries",
+        "title": "Patagonia in 14 days",
+        "subtitle": "Across Chile and Argentina, and why each stop is where it is",
+        "photo": "torres-del-paine-lago-grey.jpg",
+        "alt": "Lago Grey, Torres del Paine",
+        "page": "1/5",
+        "foco": "0% 50%"
+      }
+    },
+    {
+      "plantilla": "tip",
+      "campos": {
+        "num": "01",
+        "title": "Start and end in a capital",
+        "body": "Fly into Santiago and out of Buenos Aires, or the other way round. In between, focus on southern Patagonia, on both sides of the border.",
+        "photo": "santiago-casablanca-valley.jpg",
+        "alt": "Casablanca Valley, near Santiago",
+        "page": "2/5"
+      }
+    },
+    {
+      "plantilla": "tip",
+      "campos": {
+        "num": "02",
+        "title": "A reference route",
+        "body": "Santiago → Punta Arenas → Puerto Natales and Torres del Paine → El Calafate → El Chaltén (optional) → Ushuaia (optional) → Buenos Aires.",
+        "photo": "torres-del-paine-base-torres-trek.webp",
+        "alt": "Trekking to the base of the Torres, Torres del Paine",
+        "page": "3/5"
+      }
+    },
+    {
+      "plantilla": "tip",
+      "campos": {
+        "num": "03",
+        "title": "The stop we would cut first",
+        "body": "Trying to see everything is the mistake we see most. If the route feels too full, we would leave out Ushuaia and give more days to Torres del Paine or El Chaltén.",
+        "photo": "torres-del-paine-cuernos.jpg",
+        "alt": "A traveller photographing the Cuernos del Paine, Torres del Paine",
+        "page": "4/5"
+      }
+    },
+    {
+      "plantilla": "cierre",
+      "campos": {
+        "title": "The full route is on our journal",
+        "body": "There is no single ideal route, only the one that fits how you like to travel.",
+        "cta": "Link in bio",
+        "page": "5/5"
+      }
+    }
+  ]
+}
