@@ -15,7 +15,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-puma.jpg",
@@ -29,7 +30,8 @@
    "patagonia": true,
    "usar": false,
    "nota": "NO USAR: marca de agua",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-hiker-jump.jpg",
@@ -43,7 +45,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-lenga-forest.jpg",
@@ -57,7 +60,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-base-torres-group.jpg",
@@ -71,9 +75,10 @@
     "w trek"
    ],
    "patagonia": true,
-   "usar": true,
-   "nota": "",
-   "en_repo": false
+   "usar": false,
+   "nota": "Duplicada: es la misma foto que torres-del-paine-base-torres-trek.webp",
+   "en_repo": false,
+   "misma_que": "torres-del-paine-base-torres-trek.webp"
   },
   {
    "foto": "torres-del-paine-meadow-hiker.jpg",
@@ -87,7 +92,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-cuernos-traveller.jpg",
@@ -102,7 +108,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-forest-hikers.jpg",
@@ -116,7 +123,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-hikers-group-jump.jpg",
@@ -128,9 +136,10 @@
     "torres del paine"
    ],
    "patagonia": true,
-   "usar": true,
-   "nota": "",
-   "en_repo": false
+   "usar": false,
+   "nota": "Duplicada: es la misma foto que torres-del-paine-hikers.webp",
+   "en_repo": false,
+   "misma_que": "torres-del-paine-hikers.webp"
   },
   {
    "foto": "torres-del-paine-salto-grande.jpg",
@@ -145,7 +154,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-guanaco.jpg",
@@ -159,7 +169,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-lake-hikers.jpg",
@@ -173,7 +184,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-hikers-lake-trail.jpg",
@@ -187,7 +199,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-autumn-trail-base-torres.jpg",
@@ -203,7 +216,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-lake-hiker.jpg",
@@ -217,7 +231,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-base-torres-portrait.jpg",
@@ -233,7 +248,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-salto-grande-couple.jpg",
@@ -248,7 +264,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-puma-tracking-photographers.jpg",
@@ -262,7 +279,8 @@
    "patagonia": true,
    "usar": false,
    "nota": "NO USAR: marca de agua",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "patagonia-glacier-ice-trek.jpg",
@@ -273,7 +291,8 @@
    "patagonia": false,
    "usar": false,
    "nota": "Lugar por confirmar (hielo de glaciar con caminante)",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-cuernos-hikers.jpg",
@@ -288,7 +307,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-mountains-hikers.jpg",
@@ -302,7 +322,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-condor.jpg",
@@ -316,7 +337,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-painter.jpg",
@@ -330,7 +352,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-hikers-helping.jpg",
@@ -344,7 +367,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-ecocamp-domes-view.jpg",
@@ -358,7 +382,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-303400-1920.jpg",
@@ -372,7 +397,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "salitreras-humberstone-y-sta-laura-iquique.jpg",
@@ -386,7 +412,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "santiago-organillero.jpg",
@@ -399,7 +426,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "valparaiso.jpg",
@@ -413,7 +441,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "momias-chinchorro-arica.jpg",
@@ -426,7 +455,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "ruta-de-las-misiones-codpa-arica.jpg",
@@ -439,7 +469,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "pueblos-originarios-rapa-nui-isla-de-pascua.jpg",
@@ -454,7 +485,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "fuerte-niebla-valdivia.jpg",
@@ -468,7 +500,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "moai-isla-de-pascua.jpg",
@@ -484,7 +517,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "lago-budi-ruca.jpg",
@@ -497,7 +531,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "chiloe-iglesia-ancud.jpg",
@@ -512,7 +547,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "chile-paila-marina.jpg",
@@ -523,7 +559,8 @@
    "patagonia": false,
    "usar": false,
    "nota": "Sin lugar reconocible: no usar sin renombrar",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "gastronomia-mapuche-araucania.jpg",
@@ -536,7 +573,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "gastronomia-tipica-isla-de-pascua.jpg",
@@ -551,7 +589,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "colchahua-vina-santa-cruz.jpg",
@@ -564,7 +603,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "chile-gastronomia-empanadas.jpg",
@@ -575,7 +615,8 @@
    "patagonia": false,
    "usar": false,
    "nota": "Sin lugar reconocible: no usar sin renombrar",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "sur-de-gastronomia-tipica-sur-de-chile.jpg",
@@ -586,7 +627,8 @@
    "patagonia": false,
    "usar": false,
    "nota": "Sin lugar reconocible: no usar sin renombrar",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "valdivia-cecinas-artesanales.jpg",
@@ -599,7 +641,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "food-truck-santiago.jpg",
@@ -612,7 +655,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "curanto-chiloe.jpg",
@@ -626,7 +670,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "termas-los-lagos.jpg",
@@ -639,7 +684,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "ojos-del-caburgua.jpg",
@@ -652,7 +698,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "aisen-0897.jpg",
@@ -667,7 +714,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "termas-del-rincon-2.jpg",
@@ -681,7 +729,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "pucon.jpg",
@@ -695,7 +744,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine.jpg",
@@ -709,7 +759,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "vina-del-mar-1.jpg",
@@ -723,7 +774,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "concon-valparaiso.jpg",
@@ -739,7 +791,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "valle-del-aconcagua.jpg",
@@ -752,7 +805,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "valle-nevado.jpg",
@@ -765,7 +819,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "valle-nevado-1.jpg",
@@ -778,7 +833,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "vega-central.jpg",
@@ -792,7 +848,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "vina-del-mar.jpg",
@@ -806,7 +863,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "valparaiso-p-n-la-camapna.jpg",
@@ -820,7 +878,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "arica-parque-nacional-lauca.jpg",
@@ -834,7 +893,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "lagunas-altiplanicas-san-pedro-de-atacama-1.jpg",
@@ -848,7 +908,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "coquimbo-observatorio-cerro-tololo.jpg",
@@ -863,7 +924,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "valle-de-la-luna-san-pedro-de-atacama.jpg",
@@ -878,7 +940,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "arica-carnaval-con-la-fuerza-del-sol-arica.jpg",
@@ -891,7 +954,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "humberstone-iquique.jpg",
@@ -905,7 +969,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "lagunas-altiplanicas-san-pedro-de-atacama.jpg",
@@ -919,7 +984,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "parinacota.jpg",
@@ -933,7 +999,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "salar-de-tara-san-pedro-de-atacama.jpg",
@@ -947,7 +1014,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "valle-de-la-luna-san-pedro-de-atacama-1.jpg",
@@ -962,7 +1030,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "catedrales-de-marmol-lago-general-carrera-1.jpg",
@@ -977,7 +1046,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "caleta-tortel-1.jpg",
@@ -991,7 +1061,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "aysen-pesca-con-mosca.jpg",
@@ -1006,7 +1077,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-1.jpg",
@@ -1020,7 +1092,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "cueva-del-milodon.jpg",
@@ -1036,7 +1109,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-3.jpg",
@@ -1048,9 +1122,10 @@
     "torres del paine"
    ],
    "patagonia": true,
-   "usar": true,
-   "nota": "",
-   "en_repo": false
+   "usar": false,
+   "nota": "Duplicada: es la misma foto que torres-del-paine-chilean-patagonia.webp",
+   "en_repo": false,
+   "misma_que": "torres-del-paine-chilean-patagonia.webp"
   },
   {
    "foto": "catedrales-de-marmol-lago-general-carrera.jpg",
@@ -1063,9 +1138,10 @@
     "marble"
    ],
    "patagonia": true,
-   "usar": true,
-   "nota": "",
-   "en_repo": false
+   "usar": false,
+   "nota": "Duplicada: es la misma foto que carretera-austral-marble-caves-general-carrera.jpg",
+   "en_repo": false,
+   "misma_que": "carretera-austral-marble-caves-general-carrera.jpg"
   },
   {
    "foto": "carretera-austral.jpg",
@@ -1078,7 +1154,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "futaleufu.jpg",
@@ -1091,7 +1168,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "caleta-tortel.jpg",
@@ -1105,7 +1183,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-2.jpg",
@@ -1117,9 +1196,10 @@
     "torres del paine"
    ],
    "patagonia": true,
-   "usar": true,
-   "nota": "",
-   "en_repo": false
+   "usar": false,
+   "nota": "Duplicada: es la misma foto que base-de-las-torres-del-paine.jpg",
+   "en_repo": false,
+   "misma_que": "base-de-las-torres-del-paine.jpg"
   },
   {
    "foto": "rio-baker.jpg",
@@ -1133,7 +1213,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "san-pedro-de-atacama.jpg",
@@ -1146,7 +1227,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "cerro-san-cristobal-santiago.jpg",
@@ -1159,7 +1241,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "valle-de-la-luna-san-pedro-de-atacama-2.jpg",
@@ -1174,7 +1257,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "base-de-las-torres-del-paine.jpg",
@@ -1188,7 +1272,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "lagunas-altiplanicas-san-pedro-de-atacama-2.jpg",
@@ -1202,7 +1287,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "catedrales-de-marmol-lago-general-carrera-2.jpg",
@@ -1217,7 +1303,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "paine-grande-torres-del-paine.jpg",
@@ -1231,7 +1318,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-tour-operadores.jpg",
@@ -1245,7 +1333,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "parque-pumalin.jpg",
@@ -1259,7 +1348,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "anakena-isla-de-pascua.jpg",
@@ -1275,7 +1365,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "frutillar-lago-llanquihue.jpg",
@@ -1289,7 +1380,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "saltos-del-petrohue.jpg",
@@ -1303,7 +1395,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "parque-nacional-huerquehue.jpg",
@@ -1316,7 +1409,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "valdivia.jpg",
@@ -1329,7 +1423,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "muelle-frutillar.jpg",
@@ -1342,7 +1437,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "valdivia-selva-valdiviana.jpg",
@@ -1355,7 +1451,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "fuerte-niebla.jpg",
@@ -1369,7 +1466,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "parque-nacional-villarrica.jpg",
@@ -1382,7 +1480,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "puerto-varas.jpg",
@@ -1395,7 +1494,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "parque-nacional-conguillio.jpg",
@@ -1409,7 +1509,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "huilo-huilo.jpg",
@@ -1422,7 +1523,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "lago-budi.jpg",
@@ -1435,7 +1537,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "mountainbike-pucon.jpg",
@@ -1449,7 +1552,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "surf-iquique.jpg",
@@ -1462,7 +1566,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "snowboard-cordillera-de-los-andes.jpg",
@@ -1473,7 +1578,8 @@
    "patagonia": false,
    "usar": false,
    "nota": "Sin lugar reconocible: no usar sin renombrar",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "bicicleta-carretera-austral.jpg",
@@ -1486,7 +1592,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "trekking-parque-nacional-alerce-andino.jpg",
@@ -1499,7 +1606,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "parapente-santiago.jpg",
@@ -1512,7 +1620,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "canopy-puerto-varas.jpg",
@@ -1525,7 +1634,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "kayak-lago-grey.jpg",
@@ -1538,7 +1648,8 @@
    "patagonia": true,
    "usar": false,
    "nota": "Duplicada: es la misma foto que torres-del-paine-grey-glacier-kayak.jpg",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": "torres-del-paine-grey-glacier-kayak.jpg"
   },
   {
    "foto": "sandboard-san-pedro-de-atacama.jpg",
@@ -1551,7 +1662,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "rafting-futaleufu.jpg",
@@ -1564,7 +1676,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "la-tirana-iquique.jpg",
@@ -1578,7 +1691,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "chiloe-iglesia-tenaun.jpg",
@@ -1594,7 +1708,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "gastronomia-tipica-san-pedro-de-atacama.jpg",
@@ -1607,7 +1722,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "chile-cuecas.jpg",
@@ -1618,7 +1734,8 @@
    "patagonia": false,
    "usar": false,
    "nota": "Sin lugar reconocible: no usar sin renombrar",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "laguna-cejar-san-pedro-de-atacama.jpg",
@@ -1632,7 +1749,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "cabas-valle-del-elqui.jpg",
@@ -1645,7 +1763,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "chile-pastel-de-choclo.jpg",
@@ -1656,7 +1775,8 @@
    "patagonia": false,
    "usar": false,
    "nota": "Sin lugar reconocible: no usar sin renombrar",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "machi-lago-budi.jpg",
@@ -1669,7 +1789,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "vino-laguna-cejar.jpg",
@@ -1683,7 +1804,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "chile-spa-centro2537.jpg",
@@ -1694,7 +1816,8 @@
    "patagonia": false,
    "usar": false,
    "nota": "Sin lugar reconocible: no usar sin renombrar",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "chile-pisco-sour.jpg",
@@ -1705,7 +1828,8 @@
    "patagonia": false,
    "usar": false,
    "nota": "Sin lugar reconocible: no usar sin renombrar",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "hotel-termas-de-puyehue-8.jpg",
@@ -1718,7 +1842,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "san-pedro-de-atacama-2.jpg",
@@ -1731,7 +1856,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "valparaiso-2.jpg",
@@ -1745,7 +1871,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "valle-de-casablanca.jpg",
@@ -1756,9 +1883,10 @@
     "casablanca"
    ],
    "patagonia": false,
-   "usar": true,
-   "nota": "",
-   "en_repo": false
+   "usar": false,
+   "nota": "Duplicada: es la misma foto que santiago-casablanca-valley.jpg",
+   "en_repo": false,
+   "misma_que": "santiago-casablanca-valley.jpg"
   },
   {
    "foto": "valle-del-maipo.jpg",
@@ -1771,7 +1899,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "valle-de-colchahua.jpg",
@@ -1784,7 +1913,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "sewell.jpg",
@@ -1797,7 +1927,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "iquique-la-tirana.jpg",
@@ -1811,7 +1942,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "geyser-del-tatio.jpg",
@@ -1825,7 +1957,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "coquimbo-parque-nacional-pinguino-humboldt.jpg",
@@ -1839,7 +1972,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-lago-grey.jpg",
@@ -1854,7 +1988,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": true
+   "en_repo": true,
+   "misma_que": null
   },
   {
    "foto": "muelle-de-las-almas-chiloe.jpg",
@@ -1870,7 +2005,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "araucania-cordillera.jpg",
@@ -1883,7 +2019,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "tenaun-chiloe.jpg",
@@ -1899,7 +2036,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-2-2.jpg",
@@ -1911,9 +2049,10 @@
     "torres del paine"
    ],
    "patagonia": true,
-   "usar": true,
-   "nota": "",
-   "en_repo": false
+   "usar": false,
+   "nota": "Duplicada: es la misma foto que torres-del-paine-cuernos.jpg",
+   "en_repo": false,
+   "misma_que": "torres-del-paine-cuernos.jpg"
   },
   {
    "foto": "frutillar.jpg",
@@ -1926,7 +2065,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "buceo-isla-de-pascua.jpg",
@@ -1941,7 +2081,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "fly-fishing-patagonia-rio-aysen.jpg",
@@ -1956,7 +2097,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "kayak-lago-llanquihue.jpg",
@@ -1969,7 +2111,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "atacama-alma.jpg",
@@ -1983,7 +2126,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "cerro-tololo7.jpg",
@@ -1998,7 +2142,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "observatorio-mamalluca.jpg",
@@ -2012,7 +2157,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "observatorio-la-silla-credito-eso.jpg",
@@ -2025,7 +2171,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "ruta-astronomica-mamalluca.jpg",
@@ -2039,7 +2186,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "anakena-playa.jpg",
@@ -2054,7 +2202,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "iglesia-de-nercon-chiloe.jpg",
@@ -2069,7 +2218,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "chiloe-tenaun2.jpg",
@@ -2085,7 +2235,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "fiesta-tapati.jpg",
@@ -2099,7 +2250,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "chiloe.jpg",
@@ -2113,7 +2265,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "island-isla-de-pascua-juan-jaeger2.jpg",
@@ -2128,7 +2281,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "chiloe-castro.jpg",
@@ -2143,7 +2297,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "rutaastronomicachilemamalluca.jpg",
@@ -2157,7 +2312,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "cerro-tololo.jpg",
@@ -2172,7 +2328,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "isla-robinson-crusoe-1.jpg",
@@ -2186,7 +2343,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "isla-de-pascua25.jpg",
@@ -2201,7 +2359,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "isla-de-pascua-1.jpg",
@@ -2216,7 +2375,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": false
+   "en_repo": false,
+   "misma_que": null
   },
   {
    "foto": "carretera-austral-marble-caves-general-carrera.jpg",
@@ -2230,7 +2390,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": true
+   "en_repo": true,
+   "misma_que": null
   },
   {
    "foto": "santiago-casablanca-valley.jpg",
@@ -2244,7 +2405,8 @@
    "patagonia": false,
    "usar": true,
    "nota": "",
-   "en_repo": true
+   "en_repo": true,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-base-torres-trek.webp",
@@ -2260,7 +2422,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": true
+   "en_repo": true,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-chilean-patagonia.webp",
@@ -2274,7 +2437,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": true
+   "en_repo": true,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-cuernos.jpg",
@@ -2289,7 +2453,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": true
+   "en_repo": true,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-grey-glacier.webp",
@@ -2302,9 +2467,10 @@
     "torres del paine"
    ],
    "patagonia": true,
-   "usar": true,
-   "nota": "",
-   "en_repo": true
+   "usar": false,
+   "nota": "Duplicada: es la misma foto que torres-del-paine-lago-grey.jpg",
+   "en_repo": true,
+   "misma_que": "torres-del-paine-lago-grey.jpg"
   },
   {
    "foto": "torres-del-paine-grey-glacier-kayak.jpg",
@@ -2319,7 +2485,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": true
+   "en_repo": true,
+   "misma_que": null
   },
   {
    "foto": "torres-del-paine-hikers.webp",
@@ -2333,7 +2500,8 @@
    "patagonia": true,
    "usar": true,
    "nota": "",
-   "en_repo": true
+   "en_repo": true,
+   "misma_que": null
   }
  ]
 }
