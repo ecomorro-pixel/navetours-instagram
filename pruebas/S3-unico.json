@@ -1,0 +1,22 @@
+{
+  "id": "S3-unico",
+  "tipo": "unico",
+  "articulo": "S3 · Patagonia in 14 days",
+  "publicar": "2026-10-25T10:00:00-03:00",
+  "caption": "Not every Torres del Paine day starts at the towers.\n\nEnter through the Sarmiento gate and walk the open steppe, where guanacos are often the first to greet you. It is a quieter side of the park, and a good one to build into a longer route.\n\nPlan your Patagonia trip. Link in bio.\n\n#torresdelpaine #guanaco #patagoniachile #patagonia",
+  "laminas": [
+    {
+      "plantilla": "destino",
+      "campos": {
+        "eyebrow": "Torres del Paine, Chile",
+        "title": "Sarmiento Gate",
+        "line": "Enter through the Sarmiento gate and start the day among guanacos.",
+        "photo": "torres-del-paine-guanaco.jpg",
+        "alt": "A guanaco leaping a fence on the steppe, Torres del Paine",
+        "foco": "35% 50%",
+        "texto": "abajo"
+      }
+    }
+  ],
+  "nota": "Foto del guanaco: del banco de EcoCamp (Torres del Paine, revisada a ojo; el archivo no dice la portería exacta). El texto no da distancia, duración ni dificultad del sendero."
+}
