@@ -1,0 +1,67 @@
+{
+  "id": "S5-carrusel-v1",
+  "tipo": "carrusel",
+  "articulo": "S5 · W Trek vs O Circuit: How to Choose in Torres del Paine",
+  "publicar": "2026-11-16T10:00:00-03:00",
+  "caption": "The W, the O or day hikes? In Torres del Paine, the right choice is the one that matches the traveler, not the trail with the biggest name.\n\nThree ideas to start with: ask what you want first, be honest about your experience, and remember that day trips from Puerto Natales are a valid way to know the park.\n\nThe full guide is on our journal. Link in bio.\n\n#torresdelpaine #patagonia #wtrek #ocircuit #puertonatales",
+  "laminas": [
+    {
+      "plantilla": "portada",
+      "campos": {
+        "eyebrow": "Planning guide · Torres del Paine",
+        "title": "W Trek vs O Circuit in Torres del Paine",
+        "subtitle": "How to choose the route that fits you",
+        "photo": "torres-del-paine-303400-1920.jpg",
+        "alt": "Torres del Paine, Patagonia, Chile",
+        "page": "1/5",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "tip",
+      "campos": {
+        "num": "01",
+        "title": "Start with what you want",
+        "body": "Before choosing a trail in Torres del Paine, ask how many days you have, how prepared you are, what you most want to see and what budget you work with. The answers usually point to one path.",
+        "photo": "torres-del-paine.jpg",
+        "alt": "Torres del Paine, Patagonia, Chile",
+        "page": "2/5",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "tip",
+      "campos": {
+        "num": "02",
+        "title": "The W is often enough",
+        "body": "The W takes roughly four or five days. The O is longer and asks for experience walking several days in a row and sleeping in refuges or camping. Without it, the W in Torres del Paine is enough.",
+        "photo": "torres-del-paine-forest-hikers.jpg",
+        "alt": "Hikers in Torres del Paine, Patagonia, Chile",
+        "page": "3/5",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "tip",
+      "campos": {
+        "num": "03",
+        "title": "Day hikes are a valid choice",
+        "body": "Stay in Puerto Natales and visit Torres del Paine on day trips: a town with restaurants, plans that adapt to the weather, and transfers we factor in. Some day hikes are demanding, so match the route to your fitness.",
+        "photo": "torres-del-paine-hikers-lake-trail.jpg",
+        "alt": "Hikers on a lake trail in Torres del Paine, Patagonia, Chile",
+        "page": "4/5",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "cierre",
+      "campos": {
+        "title": "Choose the trip that fits you",
+        "body": "A good plan matches the traveler, not the most impressive trail name. Want a second opinion on your Patagonia route?",
+        "cta": "Link in bio",
+        "page": "5/5"
+      }
+    }
+  ],
+  "nota": "Fotos de Torres del Paine elegidas por nombre de archivo, sin descripción visual, así que conviene revisar el encuadre (foco) de la portada y de los tips, sobre todo si aparecen personas. El artículo marca varios datos como [VERIFY]; usé solo los que están en el texto principal, como la duración aproximada de cuatro o cinco días para la W."
+}
