@@ -1,0 +1,67 @@
+{
+  "id": "S4-carrusel-v1",
+  "tipo": "carrusel",
+  "articulo": "S4 · What a Good Local Guide Changes in Torres del Paine",
+  "publicar": "2026-11-11T10:00:00-03:00",
+  "caption": "The first quality we look for in a guide is empathy, not how much they know.\n\nIn Torres del Paine, a good guide listens, sets the pace and reads the wind. Three things to look for before you choose.\n\nThe full guide is on our journal. Link in bio.\n\n#torresdelpaine #patagonia #localguides #tailormadetravel #chileanpatagonia",
+  "laminas": [
+    {
+      "plantilla": "portada",
+      "campos": {
+        "eyebrow": "People & Places",
+        "title": "What a good guide changes in Torres del Paine",
+        "subtitle": "Three things we look for in the person leading your day",
+        "photo": "torres-del-paine-mountains-hikers.jpg",
+        "alt": "Hikers in Torres del Paine with mountains in the background",
+        "page": "1/5",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "tip",
+      "campos": {
+        "num": "01",
+        "title": "Empathy comes before information",
+        "body": "A good guide in Torres del Paine listens first. Some travelers want to walk in silence for hours, others want to go deeper into biodiversity or history. Knowing a lot is the starting point. Knowing when to speak is the skill.",
+        "photo": "torres-del-paine-lake-hikers.jpg",
+        "alt": "Hikers walking near a lake in Torres del Paine",
+        "page": "2/5",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "tip",
+      "campos": {
+        "num": "02",
+        "title": "Reading the mountain, not the forecast",
+        "body": "In Torres del Paine, wind and quickly changing weather matter most day to day. Checking a forecast online is not enough. A guide has to understand the territory, its conditions and risks, with training that matches the activity.",
+        "photo": "torres-del-paine-meadow-hiker.jpg",
+        "alt": "A hiker in a meadow in Torres del Paine",
+        "page": "3/5",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "tip",
+      "campos": {
+        "num": "03",
+        "title": "Making the most of the day",
+        "body": "Safety is the floor, not the ceiling. Depending on conditions, a guide in Torres del Paine might change the order of the viewpoints, choose a sheltered place to stop, or wait for the weather to open before moving on.",
+        "photo": "torres-del-paine-autumn-trail-base-torres.jpg",
+        "alt": "A trail in Torres del Paine National Park in autumn",
+        "page": "4/5",
+        "foco": "50% 50%"
+      }
+    },
+    {
+      "plantilla": "cierre",
+      "campos": {
+        "title": "Ask before you plan",
+        "body": "Is the guide's training suited to this activity? Is it private or shared? Who is the reference office on the ground? We are happy to help you think it through.",
+        "cta": "Link in bio",
+        "page": "5/5"
+      }
+    }
+  ],
+  "nota": "Las descripciones de las fotos son solo nombres de archivo, así que los alt y textos se mantienen genéricos (Torres del Paine, hikers, trail). Conviene revisar el foco y la posición del texto del post único al ver las imágenes."
+}
