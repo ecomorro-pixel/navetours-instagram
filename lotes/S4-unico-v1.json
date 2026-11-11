@@ -1,0 +1,22 @@
+{
+  "id": "S4-unico-v1",
+  "tipo": "unico",
+  "articulo": "S4 · What a Good Local Guide Changes in Torres del Paine",
+  "publicar": "2026-11-14T10:00:00-03:00",
+  "caption": "In Torres del Paine, the conditions that matter most day to day are wind and quickly changing weather.\n\nThat is why we value guides who understand the territory and adjust the day to it.\n\nPlan your Patagonia trip. Link in bio.\n\n#torresdelpaine #patagonia #chileanpatagonia #hikingpatagonia #tailormadetravel",
+  "laminas": [
+    {
+      "plantilla": "destino",
+      "campos": {
+        "eyebrow": "Chilean Patagonia",
+        "title": "Torres del Paine",
+        "line": "Where wind and weather shape the day, and a good guide reads both.",
+        "photo": "torres-del-paine-1.jpg",
+        "alt": "Torres del Paine, Chilean Patagonia",
+        "foco": "50% 50%",
+        "texto": "abajo"
+      }
+    }
+  ],
+  "nota": "Todas las fotos son de Torres del Paine y no se repiten ni están en la lista de usadas. No vi las imágenes, así que conviene revisar el encuadre (foco) de la portada y del destino para que no se corte a nadie."
+}
